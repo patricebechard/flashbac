@@ -1,0 +1,131 @@
+\beamer@endinputifotherversion {3.36pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\slideentry {0}{0}{3}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\slideentry {0}{0}{4}{4/4}{}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\sectionentry {1}{Bases de l'apprentissage automatique}{5}{Bases de l'apprentissage automatique}{0}}
+\headcommand {\beamer@sectionpages {1}{4}}
+\headcommand {\beamer@subsectionpages {1}{4}}
+\headcommand {\slideentry {1}{0}{1}{5/5}{}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\slideentry {1}{0}{2}{6/6}{}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {1}{0}{3}{7/7}{}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {1}{0}{4}{8/8}{}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\slideentry {1}{0}{5}{9/9}{}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {1}{0}{6}{10/10}{}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {1}{0}{7}{11/11}{}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {1}{0}{8}{12/12}{}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\sectionentry {2}{R\IeC {\'e}seaux de neurones et apprentissage profond}{13}{R\IeC {\'e}seaux de neurones et apprentissage profond}{0}}
+\headcommand {\beamer@sectionpages {5}{12}}
+\headcommand {\beamer@subsectionpages {5}{12}}
+\headcommand {\slideentry {2}{0}{1}{13/13}{}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {2}{0}{2}{14/14}{}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {2}{0}{3}{15/15}{}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{16}{Mod\IeC {\`e}les lin\IeC {\'e}aires}}\headcommand {\beamer@subsectionpages {13}{15}}
+\headcommand {\slideentry {2}{1}{1}{16/16}{Mod\IeC {\`e}les lin\IeC {\'e}aires}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\slideentry {2}{1}{2}{17/17}{Mod\IeC {\`e}les lin\IeC {\'e}aires}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {2}{1}{3}{18/19}{Mod\IeC {\`e}les lin\IeC {\'e}aires}{0}}
+\headcommand {\beamer@framepages {18}{19}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{20}{Perceptron multicouche}}\headcommand {\beamer@subsectionpages {16}{19}}
+\headcommand {\slideentry {2}{2}{1}{20/21}{Perceptron multicouche}{0}}
+\headcommand {\beamer@framepages {20}{21}}
+\headcommand {\slideentry {2}{2}{2}{22/22}{Perceptron multicouche}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {2}{2}{3}{23/23}{Perceptron multicouche}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {2}{2}{4}{24/29}{Perceptron multicouche}{0}}
+\headcommand {\beamer@framepages {24}{29}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{30}{R\IeC {\'e}seaux de neurones r\IeC {\'e}currents}}\headcommand {\beamer@subsectionpages {20}{29}}
+\headcommand {\slideentry {2}{3}{1}{30/30}{R\IeC {\'e}seaux de neurones r\IeC {\'e}currents}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\slideentry {2}{3}{2}{31/31}{R\IeC {\'e}seaux de neurones r\IeC {\'e}currents}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{32}{Mod\IeC {\`e}les s\IeC {\'e}quence \IeC {\`a} s\IeC {\'e}quence}}\headcommand {\beamer@subsectionpages {30}{31}}
+\headcommand {\slideentry {2}{4}{1}{32/32}{Mod\IeC {\`e}les s\IeC {\'e}quence \IeC {\`a} s\IeC {\'e}quence}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\sectionentry {3}{Bien repr\IeC {\'e}senter les mots}{33}{Bien repr\IeC {\'e}senter les mots}{0}}
+\headcommand {\beamer@sectionpages {13}{32}}
+\headcommand {\beamer@subsectionpages {32}{32}}
+\headcommand {\slideentry {3}{0}{1}{33/33}{}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\slideentry {3}{0}{2}{34/34}{}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{35}{Sac de mots}}\headcommand {\beamer@subsectionpages {33}{34}}
+\headcommand {\slideentry {3}{1}{1}{35/35}{Sac de mots}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\slideentry {3}{1}{2}{36/36}{Sac de mots}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{37}{Word embeddings}}\headcommand {\beamer@subsectionpages {35}{36}}
+\headcommand {\slideentry {3}{2}{1}{37/37}{Word embeddings}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\slideentry {3}{2}{2}{38/38}{Word embeddings}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\slideentry {3}{2}{3}{39/39}{Word embeddings}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\slideentry {3}{2}{4}{40/40}{Word embeddings}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\slideentry {3}{2}{5}{41/41}{Word embeddings}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\sectionentry {4}{T\IeC {\^a}ches en NLP}{42}{T\IeC {\^a}ches en NLP}{0}}
+\headcommand {\beamer@sectionpages {33}{41}}
+\headcommand {\beamer@subsectionpages {37}{41}}
+\headcommand {\slideentry {4}{0}{1}{42/42}{}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{43}{Analyse de sentiments}}\headcommand {\beamer@subsectionpages {42}{42}}
+\headcommand {\slideentry {4}{1}{1}{43/43}{Analyse de sentiments}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\slideentry {4}{1}{2}{44/44}{Analyse de sentiments}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{45}{Mod\IeC {\`e}les de langue}}\headcommand {\beamer@subsectionpages {43}{44}}
+\headcommand {\slideentry {4}{2}{1}{45/45}{Mod\IeC {\`e}les de langue}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\slideentry {4}{2}{2}{46/46}{Mod\IeC {\`e}les de langue}{0}}
+\headcommand {\beamer@framepages {46}{46}}
+\headcommand {\slideentry {4}{2}{3}{47/47}{Mod\IeC {\`e}les de langue}{0}}
+\headcommand {\beamer@framepages {47}{47}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{48}{Traduction automatique}}\headcommand {\beamer@subsectionpages {45}{47}}
+\headcommand {\slideentry {4}{3}{1}{48/48}{Traduction automatique}{0}}
+\headcommand {\beamer@framepages {48}{48}}
+\headcommand {\slideentry {4}{3}{2}{49/49}{Traduction automatique}{0}}
+\headcommand {\beamer@framepages {49}{49}}
+\headcommand {\slideentry {4}{3}{3}{50/50}{Traduction automatique}{0}}
+\headcommand {\beamer@framepages {50}{50}}
+\headcommand {\beamer@subsectionentry {0}{4}{4}{51}{Agents conversationnels}}\headcommand {\beamer@subsectionpages {48}{50}}
+\headcommand {\slideentry {4}{4}{1}{51/51}{Agents conversationnels}{0}}
+\headcommand {\beamer@framepages {51}{51}}
+\headcommand {\slideentry {4}{4}{2}{52/52}{Agents conversationnels}{0}}
+\headcommand {\beamer@framepages {52}{52}}
+\headcommand {\slideentry {4}{4}{3}{53/53}{Agents conversationnels}{0}}
+\headcommand {\beamer@framepages {53}{53}}
+\headcommand {\slideentry {4}{4}{4}{54/54}{Agents conversationnels}{0}}
+\headcommand {\beamer@framepages {54}{54}}
+\headcommand {\sectionentry {5}{R\IeC {\'e}f\IeC {\'e}rences}{55}{R\IeC {\'e}f\IeC {\'e}rences}{0}}
+\headcommand {\beamer@sectionpages {42}{54}}
+\headcommand {\beamer@subsectionpages {51}{54}}
+\headcommand {\slideentry {5}{0}{1}{55/55}{}{0}}
+\headcommand {\beamer@framepages {55}{55}}
+\headcommand {\slideentry {5}{0}{1}{55/56}{}{0}}
+\headcommand {\beamer@framepages {55}{56}}
+\headcommand {\slideentry {5}{0}{1}{55/57}{}{0}}
+\headcommand {\beamer@framepages {55}{57}}
+\headcommand {\beamer@partpages {1}{57}}
+\headcommand {\beamer@subsectionpages {55}{57}}
+\headcommand {\beamer@sectionpages {55}{57}}
+\headcommand {\beamer@documentpages {57}}
+\headcommand {\def \inserttotalframenumber {50}}

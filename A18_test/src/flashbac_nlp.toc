@@ -1,0 +1,16 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {french}
+\beamer@sectionintoc {1}{Bases de l'apprentissage automatique}{5}{0}{1}
+\beamer@sectionintoc {2}{R\IeC {\'e}seaux de neurones et apprentissage profond}{13}{0}{2}
+\beamer@subsectionintoc {2}{1}{Mod\IeC {\`e}les lin\IeC {\'e}aires}{16}{0}{2}
+\beamer@subsectionintoc {2}{2}{Perceptron multicouche}{20}{0}{2}
+\beamer@subsectionintoc {2}{3}{R\IeC {\'e}seaux de neurones r\IeC {\'e}currents}{30}{0}{2}
+\beamer@subsectionintoc {2}{4}{Mod\IeC {\`e}les s\IeC {\'e}quence \IeC {\`a} s\IeC {\'e}quence}{32}{0}{2}
+\beamer@sectionintoc {3}{Bien repr\IeC {\'e}senter les mots}{33}{0}{3}
+\beamer@subsectionintoc {3}{1}{Sac de mots}{35}{0}{3}
+\beamer@subsectionintoc {3}{2}{Word embeddings}{37}{0}{3}
+\beamer@sectionintoc {4}{T\IeC {\^a}ches en NLP}{42}{0}{4}
+\beamer@subsectionintoc {4}{1}{Analyse de sentiments}{43}{0}{4}
+\beamer@subsectionintoc {4}{2}{Mod\IeC {\`e}les de langue}{45}{0}{4}
+\beamer@subsectionintoc {4}{3}{Traduction automatique}{48}{0}{4}
+\beamer@subsectionintoc {4}{4}{Agents conversationnels}{51}{0}{4}

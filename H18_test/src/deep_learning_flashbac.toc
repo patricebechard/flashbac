@@ -1,0 +1,14 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {french}
+\beamer@sectionintoc {1}{L'IA dans la culture populaire}{3}{0}{1}
+\beamer@sectionintoc {2}{Histoire de l'IA et de l'apprentissage automatique}{13}{0}{2}
+\beamer@sectionintoc {3}{Bases de l'apprentissage automatique}{19}{0}{3}
+\beamer@sectionintoc {4}{R\IeC {\'e}seaux de neurones et apprentissage profond}{26}{0}{4}
+\beamer@subsectionintoc {4}{1}{Principes et fondements}{26}{0}{4}
+\beamer@subsectionintoc {4}{2}{D\IeC {\'e}monstration}{45}{0}{4}
+\beamer@sectionintoc {5}{Les physiciens dans l'\IeC {\`e}re du Deep Learning}{46}{0}{5}
+\beamer@subsectionintoc {5}{1}{Beaucoup d'applications...}{46}{0}{5}
+\beamer@subsectionintoc {5}{2}{...Et beaucoup de travail en th\IeC {\'e}orie}{50}{0}{5}
+\beamer@sectionintoc {6}{Pour aller plus loin...}{52}{0}{6}
+\beamer@subsectionintoc {6}{1}{Librairies Python pour l'apprentissage automatique}{52}{0}{6}
+\beamer@subsectionintoc {6}{2}{Cours et autres ressources}{53}{0}{6}

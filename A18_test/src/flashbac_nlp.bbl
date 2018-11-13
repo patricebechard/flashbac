@@ -1,0 +1,64 @@
+\begin{thebibliography}{10}
+
+\bibitem{bahdanau2014neural}
+{\sc D.~Bahdanau, K.~Cho, and Y.~Bengio}, {\em Neural machine translation by
+  jointly learning to align and translate}, arXiv preprint arXiv:1409.0473,
+  (2014).
+
+\bibitem{bengio2003neural}
+{\sc Y.~Bengio, R.~Ducharme, P.~Vincent, and C.~Jauvin}, {\em A neural
+  probabilistic language model}, Journal of machine learning research, 3
+  (2003), pp.~1137--1155.
+
+\bibitem{cho2014learning}
+{\sc K.~Cho, B.~Van~Merri{\"e}nboer, C.~Gulcehre, D.~Bahdanau, F.~Bougares,
+  H.~Schwenk, and Y.~Bengio}, {\em Learning phrase representations using rnn
+  encoder-decoder for statistical machine translation}, arXiv preprint
+  arXiv:1406.1078,  (2014).
+
+\bibitem{harrison1978hedonic}
+{\sc D.~Harrison~Jr and D.~L. Rubinfeld}, {\em Hedonic housing prices and the
+  demand for clean air}, Journal of environmental economics and management, 5
+  (1978), pp.~81--102.
+
+\bibitem{hochreiter1997long}
+{\sc S.~Hochreiter and J.~Schmidhuber}, {\em Long short-term memory}, Neural
+  computation, 9 (1997), pp.~1735--1780.
+
+\bibitem{karpathy2015unreasonable}
+{\sc A.~Karpathy}, {\em The unreasonable effectiveness of recurrent neural
+  networks}, Andrej Karpathy blog,  (2015).
+
+\bibitem{lecun1998mnist}
+{\sc Y.~LeCun, C.~Cortes, and C.~Burges}, {\em Mnist handwritten digit
+  database}, AT\&T Labs [Online]. Available: http://yann. lecun.
+  com/exdb/mnist, 2 (2010).
+
+\bibitem{mikolov2013efficient}
+{\sc T.~Mikolov, K.~Chen, G.~Corrado, and J.~Dean}, {\em Efficient estimation
+  of word representations in vector space}, arXiv preprint arXiv:1301.3781,
+  (2013).
+
+\bibitem{olah2015understanding}
+{\sc C.~Olah}, {\em Understanding lstm networks}, GITHUB blog, posted on
+  August, 27 (2015), p.~2015.
+
+\bibitem{rumelhart1985learning}
+{\sc D.~E. Rumelhart, G.~E. Hinton, and R.~J. Williams}, {\em Learning internal
+  representations by error propagation}, tech. rep., California Univ San Diego
+  La Jolla Inst for Cognitive Science, 1985.
+
+\bibitem{sutskever2014sequence}
+{\sc I.~Sutskever, O.~Vinyals, and Q.~V. Le}, {\em Sequence to sequence
+  learning with neural networks}, in Advances in neural information processing
+  systems, 2014, pp.~3104--3112.
+
+\bibitem{turing2009computing}
+{\sc A.~M. Turing}, {\em Computing machinery and intelligence}, in Parsing the
+  Turing Test, Springer, 2009, pp.~23--65.
+
+\bibitem{vinyals2015neural}
+{\sc O.~Vinyals and Q.~Le}, {\em A neural conversational model}, arXiv preprint
+  arXiv:1506.05869,  (2015).
+
+\end{thebibliography}

@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: deep_learning_flashbac.aux
+The style file: siam.bst
+Database file #1: references.bib
+You've used 22 entries,
+            2030 wiz_defined-function locations,
+            632 strings with 7865 characters,
+and the built_in function-call counts, 7393 in all, are:
+= -- 657
+> -- 435
+< -- 0
++ -- 176
+- -- 150
+* -- 614
+:= -- 1221
+add.period$ -- 23
+call.type$ -- 22
+change.case$ -- 139
+chr.to.int$ -- 0
+cite$ -- 22
+duplicate$ -- 327
+empty$ -- 482
+format.name$ -- 150
+if$ -- 1511
+int.to.chr$ -- 0
+int.to.str$ -- 22
+missing$ -- 22
+newline$ -- 70
+num.names$ -- 44
+pop$ -- 138
+preamble$ -- 1
+purify$ -- 118
+quote$ -- 0
+skip$ -- 249
+stack$ -- 0
+substring$ -- 312
+swap$ -- 122
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 86
+warning$ -- 0
+while$ -- 64
+width$ -- 24
+write$ -- 192

@@ -1,0 +1,110 @@
+\begin{thebibliography}{10}
+
+\bibitem{2014NatCo...5E4308B}
+{\sc P.~{Baldi}, P.~{Sadowski}, and D.~{Whiteson}}, {\em {Searching for exotic
+  particles in high-energy physics with deep learning}}, Nature Communications,
+  5 (2014), p.~4308.
+
+\bibitem{buchanan2005very}
+{\sc B.~G. Buchanan}, {\em A (very) brief history of artificial intelligence},
+  Ai Magazine, 26 (2005), p.~53.
+
+\bibitem{carrasquilla2017machine}
+{\sc J.~Carrasquilla and R.~G. Melko}, {\em Machine learning phases of matter},
+  Nature Physics, 13 (2017), p.~431.
+
+\bibitem{2017arXiv171006096F}
+{\sc R.~{Fok}, A.~{An}, and X.~{Wang}}, {\em {Spontaneous Symmetry Breaking in
+  Neural Networks}}, ArXiv e-prints,  (2017).
+
+\bibitem{George:2017pmj}
+{\sc D.~George and E.~A. Huerta}, {\em {Deep Learning for Real-time
+  Gravitational Wave Detection and Parameter Estimation: Results with Advanced
+  LIGO Data}}, Phys. Lett., B778 (2018), pp.~64--70.
+
+\bibitem{harrison1978hedonic}
+{\sc D.~Harrison and D.~L. Rubinfeld}, {\em Hedonic housing prices and the
+  demand for clean air}, Journal of environmental economics and management, 5
+  (1978), pp.~81--102.
+
+\bibitem{lecun1998mnist}
+{\sc Y.~LeCun}, {\em The mnist database of handwritten digits}, http://yann.
+  lecun. com/exdb/mnist/,  (1998).
+
+\bibitem{2017arXiv170401552L}
+{\sc Y.~{Levine}, D.~{Yakira}, N.~{Cohen}, and A.~{Shashua}}, {\em {Deep
+  Learning and Quantum Entanglement: Fundamental Connections with Implications
+  to Network Design}}, ArXiv e-prints,  (2017).
+
+\bibitem{2017JSP...168.1223L}
+{\sc H.~W. {Lin}, M.~{Tegmark}, and D.~{Rolnick}}, {\em {Why Does Deep and
+  Cheap Learning Work So Well?}}, Journal of Statistical Physics, 168 (2017),
+  pp.~1223--1247.
+
+\bibitem{2017arXiv170205747L}
+{\sc G.~{Litjens}, T.~{Kooi}, B.~{Ehteshami Bejnordi}, A.~{Arindra Adiyoso
+  Setio}, F.~{Ciompi}, M.~{Ghafoorian}, J.~A.~W.~M. {van der Laak}, B.~{van
+  Ginneken}, and C.~I. {S{\'a}nchez}}, {\em {A Survey on Deep Learning in
+  Medical Image Analysis}}, ArXiv e-prints,  (2017).
+
+\bibitem{2016arXiv160501156L}
+{\sc Y.~{Liu}, E.~{Racah}, {Prabhat}, J.~{Correa}, A.~{Khosrowshahi},
+  D.~{Lavers}, K.~{Kunkel}, M.~{Wehner}, and W.~{Collins}}, {\em {Application
+  of Deep Convolutional Neural Networks for Detecting Extreme Weather in
+  Climate Datasets}}, ArXiv e-prints,  (2016).
+
+\bibitem{2017arXiv170200748L}
+{\sc G.~{Louppe}, K.~{Cho}, C.~{Becot}, and K.~{Cranmer}}, {\em {QCD-Aware
+  Recursive Neural Networks for Jet Physics}}, ArXiv e-prints,  (2017).
+
+\bibitem{mcculloch1943logical}
+{\sc W.~S. McCulloch and W.~Pitts}, {\em A logical calculus of the ideas
+  immanent in nervous activity}, The bulletin of mathematical biophysics, 5
+  (1943), pp.~115--133.
+
+\bibitem{McGregor2017}
+{\sc S.~McGregor, D.~Dhuri, A.~Berea, and A.~Munoz-Jaramillo}, {\em {FlareNet:
+  A Deep Learning Framework for Solar Phenomena Prediction}}, in NIPS Workshop
+  on Deep Learning for Physical Sciences, Long Beach, 2017.
+
+\bibitem{2017arXiv170201361M}
+{\sc K.~{Mills}, M.~{Spanner}, and I.~{Tamblyn}}, {\em {Deep learning and the
+  Schr$\backslash$``odinger equation}}, ArXiv e-prints,  (2017).
+
+\bibitem{moravec1988mind}
+{\sc H.~Moravec}, {\em Mind children: The future of robot and human
+  intelligence}, Harvard University Press, 1988.
+
+\bibitem{2017DPS....4942102P}
+{\sc K.~A. {Pearson}, L.~{Palafox}, and C.~A. {Griffith}}, {\em {Searching for
+  Exoplanets using Artificial Intelligence}}, in AAS/Division for Planetary
+  Sciences Meeting Abstracts \#49, vol.~49 of AAS/Division for Planetary
+  Sciences Meeting Abstracts, Oct. 2017, p.~421.02.
+
+\bibitem{rahimi2017nips}
+{\sc A.~Rahimi}, {\em Nips 2017 test-of-time award presentation}.
+\newblock
+  \url{https://www.youtube.com/watch?v=Qi1Yry33TQE&ab=&ab_channel=Alister},
+  2017.
+
+\bibitem{rosenblatt1958perceptron}
+{\sc F.~Rosenblatt}, {\em The perceptron: A probabilistic model for information
+  storage and organization in the brain.}, Psychological review, 65 (1958),
+  p.~386.
+
+\bibitem{silver2017mastering}
+{\sc D.~Silver, T.~Hubert, J.~Schrittwieser, I.~Antonoglou, M.~Lai, A.~Guez,
+  M.~Lanctot, L.~Sifre, D.~Kumaran, T.~Graepel, et~al.}, {\em Mastering chess
+  and shogi by self-play with a general reinforcement learning algorithm},
+  arXiv preprint arXiv:1712.01815,  (2017).
+
+\bibitem{turing1950computing}
+{\sc A.~M. Turing}, {\em Computing machinery and intelligence}, Mind, 59
+  (1950), pp.~433--460.
+
+\bibitem{10.1371/journal.pcbi.1005324}
+{\sc S.~Wang, S.~Sun, Z.~Li, R.~Zhang, and J.~Xu}, {\em Accurate de novo
+  prediction of protein contact map by ultra-deep learning model}, PLOS
+  Computational Biology, 13 (2017), pp.~1--34.
+
+\end{thebibliography}
